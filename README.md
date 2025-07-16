@@ -23,5 +23,16 @@ This repository contains a comprehensive Power BI project that analyzes Amazon s
 * **`data/amazon.csv`**: The original, raw dataset used for the project.
 * **`data/amazon_cleaned.csv`**: The cleaned and transformed data used in the report.
 
+Executive Summary Questions:
+KPI Cards: What are the most critical, high-level performance metrics for the business (e.g., total sales, average product quality, total customer feedback)?
+
+Donut Chart: Which product categories are the most valuable and contribute the most to total sales?
+
+Top 10 Products Chart: Which specific products are our "superstars" and drive the most revenue?
+
+Slicer: How can we allow a user to interactively explore a specific product category?
+
+100% Stacked Bar Chart: Within any given primary category, what is the proportional mix of its sub-categories?
+
 
 ---
